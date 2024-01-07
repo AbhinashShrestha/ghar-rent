@@ -16,8 +16,8 @@ Before you begin, ensure you have met the following requirements:
 
 Follow these steps to install and run the chat application:
 
-1. Clone the repository: `git clone https://github.com/Abhinashshrestha/airbnb-clone.git`
-2. Navigate into the project directory: `cd airbnb-clone`
+1. Clone the repository: `git clone https://github.com/Abhinashshrestha/ghar-rent.git`
+2. Navigate into the project directory: `cd ghar-rent`
 3. Install the dependencies: `npm install`
 
 ## Usage
